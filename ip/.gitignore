@@ -1,2 +1,5 @@
-riscvpynq.*/
+riscvpynq.cache/
+risvpynq.hw/
+riscvpynq.ip_user_files/
+riscvpynq.sim/
 riscvpynq.xpr
